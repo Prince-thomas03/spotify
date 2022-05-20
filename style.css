@@ -1,0 +1,226 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+html {
+    overflow-x: hidden;
+}
+
+
+.nav {
+    background-color: rgb(0, 0, 0);
+    height: 80px;
+}
+
+.nav img {
+    margin-top: 20px;
+    margin-left: 190px;
+    height: 40px;
+    /* color: rgb(15, 47, 205); */
+}
+
+.nav h4 {
+    margin-left: 860px;
+    margin-top: -33px;
+    color: #ffff;
+    font-family: Circular, spotify-circular, Helvetica, Arial, sans-serif;
+}
+
+.first {
+    background-color: #993399;
+    height: 637px;
+}
+
+.first h5 {
+    color: white;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 14px;
+    margin-left: 195px;
+    padding-top: 80px;
+}
+
+.first h1 {
+    color: white;
+    font-size: 58px;
+    margin-top: 39px;
+    margin-left: 195px;
+}
+
+.first h3 {
+    color: white;
+    font-size: 25px;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    font-weight: lighter;
+    margin-top: 39px;
+    margin-left: 195px;
+}
+
+.first button {
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    border-radius: 25px;
+    font-weight: bold;
+    border-style: none;
+    width: 206px;
+    height: 52px;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    font-weight: lighter;
+    margin-top: 39px;
+    margin-left: 195px;
+}
+
+.first h6 {
+    color: white;
+    line-height: 1.3;
+    font-size: 12px;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    font-weight: lighter;
+    margin-top: 39px;
+    margin-left: 195px;
+}
+
+.first img {
+    position: absolute;
+    margin-top: -450px;
+    margin-left: 940px;
+    width: 400px;
+    height: 400px;
+}
+
+.second {
+    background-color: #2941ab;
+    height: 600px;
+}
+
+.second h5 {
+    color: #1ed760;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 14px;
+    margin-left: 195px;
+    padding-top: 80px;
+}
+
+.second h1 {
+    color: #1ed760;
+    font-size: 55px;
+    margin-top: 25px;
+    margin-left: 193px;
+}
+
+.second h3 {
+    color: #1ed760;
+    font-size: 25px;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    font-weight: lighter;
+    margin-top: 49px;
+    margin-left: 195px;
+}
+
+.second button {
+    background-color: #1ed760;
+    color: #2941ab;
+    font-size: 14px;
+    border-radius: 25px;
+    font-weight: bold;
+    border-style: none;
+    width: 206px;
+    height: 52px;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    margin-top: 55px;
+    margin-left: 195px;
+}
+
+.second img {
+    margin-top: -399px;
+    margin-left: 93px;
+    height: 601px;
+}
+
+.lastpart {
+    background-color: black;
+    height: 530px;
+}
+
+.final img {
+    margin-top: 81px;
+    margin-left: 190px;
+    height: 40px;
+    color: white;
+}
+
+.final h4 {
+    margin-top: -22px;
+    margin-left: 380px;
+    color: gray;
+    font-size: 12px;
+}
+
+.final h3 {
+    color: white;
+    font-size: 15px;
+    font-weight: normal;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    margin-top: 20px;
+    margin-left: 380px;
+    line-height: 3;
+}
+
+.final h2 {
+    color: white;
+    font-size: 15px;
+    font-weight: normal;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    margin-top: -135px;
+    margin-left: 570px;
+    line-height: 3;
+}
+
+.final h1 {
+    color: white;
+    font-size: 15px;
+    font-weight: normal;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    margin-top: -225px;
+    margin-left: 780px;
+    line-height: 3;
+}
+
+.icons {
+    color: white;
+    font-size: 35px;
+    margin-top: -225px;
+    margin-left: 1200px;
+    line-height: 3;
+}
+
+.final h6 {
+    color: gray;
+    font-size: 12px;
+    font-weight: normal;
+    margin-top: 295px;
+    margin-left: 193px;
+}
+
+.final h5 {
+    color: gray;
+    font-size: 13px;
+    font-weight: normal;
+    line-height: 2;
+    margin-top: -50px;
+    margin-left: 1240px;
+}
+
+.lasticon {
+    margin-top: -49px;
+    margin-left: 1240px;
+}
+
+h4 :hover {
+    background-color: #1ed760;
+    cursor: pointer;
+}
